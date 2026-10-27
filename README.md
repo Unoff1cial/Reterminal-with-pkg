@@ -13,7 +13,7 @@ Download the latest APK from the [Releases Section](https://github.com/RohitKush
 - [x] Basic Terminal
 - [x] Virtual Keys
 - [x] Multiple Sessions
-- [x] Termux package manager support
+- [x] Termux Package Manager Support
 - [x] Configurable Keyboard Shortcuts (Paste, Session Management)
 
 # Screenshots
