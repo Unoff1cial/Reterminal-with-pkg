@@ -1,5 +1,5 @@
 # Credits
-Credits goes to the original person who made ReTerminal: (https://github.com/RohitKushvaha01/ReTerminal) 
+Credits goes to the original person who made ReTerminal: https://github.com/RohitKushvaha01/ReTerminal 
 
 # ReTerminal
 **ReTerminal** is a sleek, Material 3-inspired terminal emulator designed as a modern alternative to the legacy [Jackpal Terminal](https://github.com/jackpal/Android-Terminal-Emulator). Built on [Termux's](https://github.com/termux/termux-app) robust TerminalView
